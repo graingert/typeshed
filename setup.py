@@ -23,7 +23,7 @@ readme = open('README.rst').read()
 
 setup(
     name='typeshed',
-    version='0.0.0a0',
+    version='0.0.1',
     description='Collection of library stubs for Python, with static types',
     long_description=readme,
     license="Apache 2",
